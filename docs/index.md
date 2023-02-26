@@ -4,11 +4,11 @@
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-*Christoph Helbling
-02/25/2023
-IT FDN 130 A Wi 23: Foundations Of Databases & SQL Programming
-Assignment7
-[chhelbli/DBFoundations-Module07 (github.com)](https://github.com/chhelbli/DBFoundations-Module07)*
+*Christoph Helbling  
+02/25/2023  
+IT FDN 130 A Wi 23: Foundations Of Databases & SQL Programming  
+Assignment7  
+[chhelbli/DBFoundations-Module07 (github.com)](https://github.com/chhelbli/DBFoundations-Module07)  *
 
 # Assignment7_Writeup
 
