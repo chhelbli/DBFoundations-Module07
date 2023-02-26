@@ -1,9 +1,5 @@
 # Module07 Website
 ---
-[Google Homepage](https://www.google.com "Google's Homepage")
-
-[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 *Christoph Helbling*  
 *02/25/2023*  
 *IT FDN 130 A Wi 23: Foundations Of Databases & SQL Programming*  
