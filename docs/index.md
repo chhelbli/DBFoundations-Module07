@@ -18,6 +18,7 @@ This document describes the use case for SQL User Defined Functions (UDFs) and e
 ## SQL User Defined Functions
 SQL offers a range of built-in functions but also gives users the option to create their own functions to return single or a table of values; such customized functions are called User Defined Functions (UDFs). 
 UDFs allow a body of work to be executed in SQL based on parameters as defined by the creator of the function. UDFs are useful to check constraints or do calculations on values in a table. Another benefit is that you can reuse UDFs across queries referencing the same data.
+
 UDFs can’t execute actions that would modify the state of a database and can’t return multiple sets of results (unlike a Stored Procedure).
 
 This is an example of a UDF built in Assignment 7:
