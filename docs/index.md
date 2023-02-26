@@ -23,7 +23,7 @@ UDFs canâ€™t execute actions that would modify the state of a database and canâ€
 
 This is an example of a UDF built in Assignment 7:
 
-```
+```SQL
 Create Function fProductInventoriesWithPreviousMonthCountsWithKPIs
 (@CountVsPreviousCountKPI int)
 Returns Table 
