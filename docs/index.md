@@ -43,3 +43,4 @@ A **Scalar Function** returns a single value. An **Inline Function** returns the
 
 ## Summary
 User Defined Functions (UDFs) - in the form of scalar, inline and multi-statement functions – return a single value or a table of values based on parameters defined by the creator of the function.
+
